@@ -1,0 +1,20 @@
+/* CSS */
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.images {
+	width: 100%;
+	/*border: 1px solid gray;*/
+}
+
+.images2 {
+	width: 50%;
+	/*border: 1px solid gray;*/
+}
+
+.titles {
+	padding: 10px;
+	text-align: center;
+}
